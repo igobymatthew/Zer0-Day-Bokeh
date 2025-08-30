@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output directory
+/output/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
